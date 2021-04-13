@@ -1,3 +1,8 @@
+
+![image](https://user-images.githubusercontent.com/78797478/114617688-d8150280-9c7e-11eb-977a-5b6fd27a30b8.png)
+
+
+
 <h1>Site com efeito Parallax</h1>
 
 
@@ -9,10 +14,3 @@
 + Css
 
  #### Através de um tema que gosto, demonstro aqui, meu conhecimento em uma parte do Desenvolvimento Web.
-
-
-![image](https://user-images.githubusercontent.com/78797478/114617688-d8150280-9c7e-11eb-977a-5b6fd27a30b8.png)
-
-
-
-
