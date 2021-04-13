@@ -1,3 +1,4 @@
+
 body, html{
   height:100%;
   margin:0;
@@ -7,7 +8,6 @@ body, html{
   line-height:1.8em;
   color:#666;
 }
-
 .Personagem, .Transformação1, .Transformação2{
   position:relative;
   opacity:0.70;
