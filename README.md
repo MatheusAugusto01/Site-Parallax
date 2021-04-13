@@ -1,7 +1,7 @@
 <h1>Site com efeito Parallax</h1>
 
 
-## Direrório criado para demostrar meus conhecimentos em desenvolvimento Web 🌐
+## Esté repositório foi criado para demostrar parte do meu conhecimento em Desenvolvimento Web 🌐
 
 ### Como efeito parallax, que tem como objetivo chamar a atenção através de uma fluidez mais apresentavel, com uma imagem fixa de fundo, criei uma demonstração desse efeito, aplicando através de
 
